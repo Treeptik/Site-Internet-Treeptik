@@ -347,7 +347,7 @@ h4.tit4blg, x:-moz-any-link, x:default { margin-top:-49px; }
 h4.tit4blg span { background:#e4c90f; padding:4px 10px; border-radius:3px 3px 0 0; display:inline; }
 
 
-a.readmore {  margin:4px 0 3px 1px;  -webkit-transition: all 0.17s ease-in-out; -moz-transition: all 0.17s ease-in-out; -ms-transition: all 0.17s ease-in-out; -o-transition: all 0.17s ease-in-out; transition: all 0.17s ease-in-out;  background:#70be4d url(../images/rowp3.png) no-repeat 96% 52%; padding:0 22px 4px 9px; border-radius:3px; color:#fff; box-shadow: 0 0 0 0; }
+a.readmore {  margin:4px 0 3px 1px;  -webkit-transition: all 0.17s ease-in-out; -moz-transition: all 0.17s ease-in-out; -ms-transition: all 0.17s ease-in-out; -o-transition: all 0.17s ease-in-out; transition: all 0.17s ease-in-out;  background:#3c4496 url(../images/rowp3.png) no-repeat 96% 52%; padding:0 22px 4px 9px; border-radius:3px; color:#fff; box-shadow: 0 0 0 0; }
 a.readmore:hover { text-decoration:none; color:#444;   background:#e4c90f url(../images/rowp2.png) no-repeat 98% 52%; display:inline; border-radius:5px; }
 a.readmore:active { background-color:#fafafa; color:#999; }
 
