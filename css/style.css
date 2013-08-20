@@ -462,9 +462,11 @@ a.show-all:active { background:#ffe483; border-color:#f7d96c; color:#b29839; }
 .pricing-table2:hover { box-shadow:0 1px 5px rgba(0,0,0,0.3); -webkit-box-shadow:0 1px 7px rgba(0,0,0,0.3); }
 .pricing-table2 .price-header,.pricing-table2 .price-footer {	background: #eaeaea url(../images/price-tab-bg1.png) top; border-radius: 5px 5px 0 0; }
 .pricing-table2 .price-footer { padding-top:20px;  border-top: 1px solid #e8edee; border-radius: 0 0 5px 5px;}
+.pricing-table2 h6.features-title {font-size: 16px; font-weight: bold; padding: 12px 0; border-bottom: 1px dashed #e8edee; margin: 0 15px;}
 .pricing-table2 ul.features { padding: 11px 16px;}
 .pricing-table2 ul.features li { border-top: 1px dashed #e8edee; padding-top:12px;	}
-.pricing-table2 ul.features li:nth-child(1) { border: none; }
+.pricing-table2 ul.features li:nth-child(1) { border: none; padding: 0; }
+.pricing-table2 ul.features li:last-child { margin-bottom: -12px; }
 .pricing-table2 .plan-title { text-transform:uppercase; font-weight:700; font-family:Arial, Helvetica, sans-serif; font-size: 18px; line-height: 24px; background-color: #dde4e9; border-radius: 5px 5px 0 0;  padding: 9px 15px; margin: 0;}
 .pricing-table2 .plan-price {line-height: normal;  background: url(../images/price-tab-bg1.png) bottom;	padding: 12px 15px;	margin: 0;	border-top: 1px solid rgba(255,255,255,0.4);}
 .pricing-table2 .plan-price span {	font-weight: 700; font-size: 34px; 	color: #3c4496; text-shadow: 0 1px 1px rgba(255,255,255,0.3); }
