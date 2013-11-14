@@ -220,9 +220,10 @@ ul#main-port li:hover  { width:232px\0/; background:#f4f7f8\0/; border-bottom-co
 .footer-in a:link, .footer-in a:visited { color:#91bad4 }
 .footer-in a:hover { color:#ff9900 }
 
+
 .footer-in a.terms  { color:#578f1a }
-.footer-in p.twitt-txt { padding:12px; padding-top:26px; background:#323537 url(../images/latest-tweet.png) no-repeat top right; border-radius:5px; color:#a7adb1; font-family:'Lato', Helvetica, Arial; font-size:13px}
-.footer-in p.twitt-txt a {color:#e4c90f; text-decoration:none; padding-bottom:2px; }
+.footer-in #twitter-feed { padding:12px; background-color:#323537; border-radius:5px; color:#a7adb1; font-family:'Lato', Helvetica, Arial; font-size:13px}
+.footer-in .twitter-txt a {color:#e4c90f; text-decoration:none; padding-bottom:2px; }
 
 .footer-in .twitt-txt em { color:#797979; font-size:12px;}
 .flickr-feed { padding-left:20px; margin-bottom:14px;}
