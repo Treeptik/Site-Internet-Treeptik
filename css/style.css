@@ -327,6 +327,7 @@ p.blog-inpic img { float:left; border:1px solid #c9c9c9; background:#f9f9f9; wid
 h6.blog-date, h6.blog-cat  { color:#69ba45;}
 h6.blog-author { color:#a8b1b4;}
 h6.blog-author strong, h6.blog-date strong, h6.blog-cat strong { font-weight:400;}
+li.tag-box {list-style: none;}
 .tag-box a:link, .tag-box a:visited { height:16px; padding:4px 10px; font-size:12px; margin:0 4px 4px 0; float:left; min-width:18px; border-radius:2px; width:auto; background:#f2f2f2; color:#797979; display:block; text-decoration:none; }
 .tag-box a:hover { color:#333; background-color:#e4c90f; }
 .lts-blg { margin-bottom:14px;}
