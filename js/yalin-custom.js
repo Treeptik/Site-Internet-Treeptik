@@ -165,3 +165,23 @@ jQuery(document).ready(function () {
     });
 
 });
+
+/* ---------------------------------------------------------------------- */
+/*	Navbar
+ /* ---------------------------------------------------------------------- */
+
+jQuery(document).ready(function () {
+    var url = location.pathname;
+    var currentLink = url.replace("/", "");
+    var links = $("#nav a");
+    $.each(links, function (i) {
+        if (currentLink === $(links[i]).attr("href")) {
+            if ($(links[i]).parents("li.has-sub").length) {
+                var parent = $(links[i]).parents("li.has-sub");
+                $(parent).first().addClass("current");
+            } else {
+                $(links[i]).parent().addClass("current");
+            }
+        }
+    })
+});
