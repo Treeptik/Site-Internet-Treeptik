@@ -556,7 +556,7 @@ nav.primary ul li a:active, nav.primary ul li a.selected {	background:#e4c90f;	c
 ul.jcarousel-list { overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; }
 ul.jcarousel-list li, .footer-in .partners li { float:left; list-style:none;}
 .footer-in .partners li:first-child {margin-right: 7px; padding-right: 7px; border-right: 1px dashed #A0AAAE;}
-ul.jcarousel-list li img, .footer-in .partners li img { max-width:100%;}
+ul.jcarousel-list li img, .footer-in .partners li img { max-width:100%; height: 62px;}
 .jcarousel-item {  }
 .jcarousel-next, .jcarousel-prev { background:#d9dada url(../images/nextarrow7.png) center center no-repeat; width: 19px; height: 19px;	position: absolute;	right: 1px;	top: -47px;	cursor: pointer; }
 .jcarousel-prev { background:#d9dada url(../images/prevarrow7.png) center center no-repeat;	right: 22px; }
