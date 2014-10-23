@@ -1,6 +1,6 @@
 .DS_Store
 ~
 .idea/
-images/
-_site
-en/_site/
+images/**
+_site/**
+en/_site/**
