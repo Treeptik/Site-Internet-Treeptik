@@ -68,6 +68,10 @@
     max-width: 1000px;
 }
 
+#wrap #layerslider-container #layerslider blockquote {
+    color: darkslategray;
+}
+
 #headline, #headline2 {
     width: 100%;
     height: 55px;
